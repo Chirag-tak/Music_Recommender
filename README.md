@@ -49,3 +49,4 @@ Use a different dataset.
 Preprocess the text data further (e.g., removing punctuation, stemming vs. lemmatization).
 Experiment with different recommendation algorithms.
 Refine the song recommendation function to take user preferences as input.
+![image](https://github.com/Chirag-tak/Music_Recommender/assets/112536182/405f0fdc-469c-4bd3-9bf6-52092ea4bcb3)
